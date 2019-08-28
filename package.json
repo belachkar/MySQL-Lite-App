@@ -1,0 +1,23 @@
+{
+  "name": "mysql_lite_app",
+  "version": "0.0.1",
+  "description": "MySQL Node.js tutorial app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/belachkar/MySQL-Lite-App.git"
+  },
+  "keywords": [
+    "MySQL",
+    "Node.js"
+  ],
+  "author": "Belachkar ali",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/belachkar/MySQL-Lite-App/issues"
+  },
+  "homepage": "https://github.com/belachkar/MySQL-Lite-App#readme"
+}
